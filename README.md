@@ -73,3 +73,6 @@ To turn these part files into one file you can run something like
 
     cd ~/point-poly/data/output/ # Change directory
     cat part* > clipped-points.csv
+
+
+![alt tag](./images/screen-shot.png)
