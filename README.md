@@ -58,6 +58,7 @@ Your CSV may have a different order, you may need to change which columns to use
 ### Submit a spark job
 
 Change IP to your spark environment
+
     #!/usr/bin/env bash
     /Users/jnordling/projects/spark-1.4/bin/spark-submit\
      --master spark://192.168.1.10:7077\
